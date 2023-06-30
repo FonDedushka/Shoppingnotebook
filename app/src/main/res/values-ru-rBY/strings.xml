@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Блокнот "</string>
+    <string name="settings">Настройки</string>
+    <string name="new_item">"Новое "</string>
+    <string name="shop_list">Список дел</string>
+    <string name="notes">Записи</string>
+    <string name="bold">Выделить</string>
+    <string name="title_hint">Заголовок</string>
+    <string name="description_hint">Описание</string>
+    <string name="save">Добавить</string>
+    <string name="colors">Цвета</string>
+    <string name="new_list_name">Название списка</string>
+    <string name="list_name">Название списка</string>
+    <string name="empty">Пусто!</string>
+    <string name="delete_item">Вы хотите удалить этот элемент?</string>
+    <string name="delete_alert">УДАЛИТЬ</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="update">ОБНОВИТЬ</string>
+    <string name="delete_list">Удалить список</string>
+    <string name="clear_list">Очистить список</string>
+    <string name="share_list">Поделиться списком</string>
+    <string name="update_list_item">Обновить список</string>
+    <string name="name">Название</string>
+    <string name="item_info">Информация</string>
+    <string name="share_by">Поделиться с помощью</string>
+    <string name="general">Общие настройки</string>
+    <string name="chose_note_style">Выберите стиль заметок</string>
+    <string name="chose_theme">Выбрать тему</string>
+    <string name="theme_settings">Настройки темы</string>
+    <string name="time_format">Формат времени</string>
+    <string name="text_size_settings">Настройки размера текста заметок</string>
+    <string name="chose_text_size">Выбрать размер текста заметок</string>
+    <string name="content_text_size">Размер текста содержимого</string>
+    <string name="title_text_size">Размер текста заголовка</string>
+    <string name="linear">Линейный</string>
+    <string name="grid">Табличный</string>
+    <string name="green_theme">Зелёная тема</string>
+    <string name="violet_theme">Фиолетовая тема</string>
+</resources>

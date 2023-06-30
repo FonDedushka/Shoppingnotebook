@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ShoppingNotebookGreen" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/light_green</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.ShoppingNotebook1" parent="Base.Theme.ShoppingNotebookGreen" />
+
+    <style name="Base.Theme.ShoppingNotebookViolet" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/violet</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.ShoppingNotebook2" parent="Base.Theme.ShoppingNotebookViolet" />
+
+
+</resources>
